@@ -22,6 +22,7 @@
   img {
     max-width: 100%;
     vertical-align: middle;
+    object-fit: cover;
   }
   ul li {
     list-style: none;
@@ -122,7 +123,7 @@
   /* effect end */
   .home-section {
     position: relative;
-    padding: 35px;
+    padding: 40px;
   }
   @media (max-width: 575px) {
     .home-section {
